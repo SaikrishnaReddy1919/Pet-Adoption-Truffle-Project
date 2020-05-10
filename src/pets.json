@@ -126,5 +126,13 @@
     "age": 2,
     "breed": "Golden Retriever",
     "location": "Delhi"
+  },
+   {
+    "id": 16,
+    "name": "HYD",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": 5,
+    "breed": "German shepard",
+    "location": "Vijayawada"
   }
 ]
