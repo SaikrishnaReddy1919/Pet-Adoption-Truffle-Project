@@ -134,5 +134,13 @@
     "age": 5,
     "breed": "German shepard",
     "location": "Vijayawada"
-  }
+  },
+  {
+    "id": 17,
+    "name": "KMR",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": 3,
+    "breed": "German shepard 2",
+    "location": "KMR"
+  },
 ]
